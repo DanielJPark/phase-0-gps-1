@@ -8,3 +8,5 @@ git commit
 ```
 This site was built using [Sublime] (https://www.google.com/)
 img src= "ScreenShot1.png"	
+
+This is small conflict number 2.
